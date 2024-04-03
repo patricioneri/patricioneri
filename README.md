@@ -93,7 +93,7 @@
 
 <li>
 <a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://iconos8.es/icon/8808/linkedin" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -112,7 +112,7 @@
 </div>
 
 <br>
-<img src="https://iconos8.es/icon/8808/linkedin">
+
 <br>
 <br>
 <br>
