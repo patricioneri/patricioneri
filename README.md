@@ -89,7 +89,7 @@
 <br>
 <div align='left'>
 
-- LinkedIn: [PatoLinkedIn](linkedin.com/in/patricionerigarcia/)
+- LinkedIn: [linkedin.com/in/patricionerigarcia/](linkedin.com/in/patricionerigarcia/)
 
 
 
