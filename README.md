@@ -89,33 +89,9 @@
 <br>
 <div align='left'>
 
-<ul>
-
-<li>
-// <a >
-// <img />
-</a>
-</li>
-
-<br>
+- LinkedIn: [PatoLinkedIn](linkedin.com/in/patricionerigarcia/)
 
 
-<br>
-
-<li>
-// <a >
-// <img  />
-</a>
-</li>
-	
-</ul>
-</div>
-
-<br>
-
-<br>
-<br>
-<br>
 
 <div align='center'>
 
